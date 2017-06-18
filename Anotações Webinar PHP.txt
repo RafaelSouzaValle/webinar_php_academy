@@ -1,9 +1,0 @@
-APlicações usadas para desenvolvimento PHP
-
-- Komodo Edit (Editor de Código/IDE)
-- Servidor wamp - wampserver.com
-	- Para resolver problemas de dll na instalação do wamp
-		- falta do "\VCRUNTIME140.dll, "MSVR110.dll", "MSCVP110.dll"): busca "microsoft runtime redistributable"
-- MySQL Benchmark (Baco de Dados)
-
-
